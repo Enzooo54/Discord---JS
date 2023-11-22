@@ -1,4 +1,4 @@
-const { token } = require('./config.json');
+
 
 const fs = require('fs')
 const {Client, Collection, GatewayIntentBits, Options} = require('discord.js')
