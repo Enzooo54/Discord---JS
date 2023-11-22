@@ -69,4 +69,4 @@ const client = new Client({
     }
   })
 
-client.login(token);
+client.login(process.env.TOKEN);
