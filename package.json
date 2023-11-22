@@ -1,0 +1,19 @@
+{
+  "name": "discord---js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+  "discordapp",
+  "bot"],
+  "author": "EnzDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord-api-types": "^0.37.63",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security"
+  }
+}
